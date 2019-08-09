@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://trevor:trevor@contactkeeper-wbjtm.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "Tony is a cute kitty"
+}
